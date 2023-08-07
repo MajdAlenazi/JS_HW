@@ -29,7 +29,6 @@ console.log(` ${hours} hours, The result = ${result3} sec`);
 // Leap year
 console.log("-------------Leap year-------------")
 let year=1999;
-
     if((year%4==0 && year %100 !==0 )|| year %400==0 ){
     console.log(`The ${year}  is leap` );
     }else{
