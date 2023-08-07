@@ -20,7 +20,7 @@ let fahrenheit=34
 let result2= (fahrenheit - 32) /1.8;
 console.log(`${fahrenheit}°F is ${result2} °C `);
 
-
+// Convert hours to seconds
 console.log("-------------Convert hours to seconds------------- ")
 let hours= 2;
 let result3= (hours*60) * 60;
